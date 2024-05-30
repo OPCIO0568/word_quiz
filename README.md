@@ -6,12 +6,21 @@ This is a team project for Software English
    There's a wordbook in /wordbooks/. You can add it according to the form if you need it.
    It's very simple and intuitive
    ```
+# A short explanation
+   ```1. Choose a wordbook.
+   2. Practice words.
+   3. Test the words.
+
+   Test environment: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+   Build Code : https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+   ```
+   
 
 ## How to Install and Run the WordQuiz
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/wien0128/wordquiz.git
+   git clone https://github.com/OPCIO0568/wordquiz.git master
    cd wordquiz
    ```
 
