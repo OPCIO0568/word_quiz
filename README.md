@@ -1,17 +1,5 @@
-<a name="top"></a>
-<div align="center">
-  
-# WordQuiz
-   
-Welcome to **WordQuiz**. It is a word quiz program developed using **C**. You can improve your vocabulary by taking quizzes related to various words.
-This project was developed for learning purposes and it was made to make studying English more interesting.
-   
-If you want, you can add a wordbook to `/wordbooks/` and you can modify the existing wordbook.   
-Hope you enjoy 👍
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-</div>
+This is an H1
+=============
 
 ## How to Install and Run the WordQuiz
 
