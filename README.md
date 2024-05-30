@@ -12,38 +12,39 @@ This is a team project for Software English
    1. Choose a wordbook.
    2. Practice words.
    3. Test the words.
-
-   Test environment: ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-   Build Code : ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
    ```
+   ```Test environment : ``` ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+            ```Build Code : ``` ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
    
 
 ## How to Install and Run the WordQuiz
 
-1. **Clone the repository:**
+**Clone the repository:**
    ```bash
    git clone https://github.com/OPCIO0568/wordquiz.git master
    cd wordquiz
    ```
 
-2. **Compile the source code:**
+**Compile the source code:**
    ```bash
    gcc -o wordquiz wordquiz.c
    ```
 
-3. **Run the program:**
+**Run the program:**
    ```bash
    ./wordquiz
    ```
 
 ## How to Play the WordQuiz
 
-1. **Program Run:**
+**Program Run:**
    ```bash
    ./wordquiz
    ```
 
-2. **Main Menu:**
+**Main Menu:**
    Choose a number corresponding to 1 to 4.
    ```
    *** Word Quiz ***
@@ -55,7 +56,7 @@ This is a team project for Software English
    > (1 ~ 4) 
    ```
 
-4. **List wordbooks:**
+**List wordbooks:**
    You can also add a Wordbook directly to the "workbooks" folder.
    ```
    *** Word Quiz ***
@@ -72,7 +73,7 @@ This is a team project for Software English
    ---
    ```
 
-5. **Test with a wordbook:**
+**Test with a wordbook:**
    ```
    Type in the name of the Wordbook?
    > (voca1/voca2 or other wordbook)
@@ -86,7 +87,7 @@ This is a team project for Software English
    ? (Answer)
    ```
 
-6. **Program exit:**
+**Program exit:**
    ```
    *** Word Quiz ***
 
@@ -118,11 +119,9 @@ For a workbook, you can choose the name of the wordbook.
 ## Credits
 
 - **Team:** Group#202
-- **Contributors:** Wien0128, JeonYeongwoo, BumGyo, OPCIO0568
+- **Contributors:** [Wien0128](https://github.com/wien0128), [JeonYeongwoo](https://github.com/JeonYeongwoo), [BumGyo](https://github.com/BumGyo), [OPCIO0568](https://github.com/OPCIO0568)
 - **Organization:** Department of Software, Chungbuk National University
 
 ## License
-
-[to the top](#top)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
