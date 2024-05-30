@@ -5,7 +5,7 @@ This is a team project for Software English
    ``` This is a word quiz program made of C.
    There's a wordbook in /wordbooks/. You can add it according to the form if you need it.
    It's very simple and intuitive
-    ```
+   ```
 
 ## How to Install and Run the WordQuiz
 
