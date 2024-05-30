@@ -1,5 +1,8 @@
-This is an H1
-=============
+Word Quiz
+====================
+This is an H2
+-------------
+
 
 ## How to Install and Run the WordQuiz
 
