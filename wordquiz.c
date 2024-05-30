@@ -17,7 +17,7 @@ typedef
 	}
 	command_t;
 
-
+void list_wordbooks () ;
 void add_wordbook() {
     char wordbook_name[256];
     printf("Enter the name of the new wordbook: ");
