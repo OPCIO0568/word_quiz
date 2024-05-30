@@ -128,15 +128,23 @@ This is a team project for Software English
    ```
 
 ### Screenshots
-- **Main Menu:**   
-  ![MainMenu](screenshots/main_menu.PNG)
+- **Main Menu**   
+  ![MainMenu](screenshots/1.PNG)
   
-- **Quiz:**   
-  ![Quiz](screenshots/quiz_question.PNG)
+- **Word Check**   
+  ![word1](screenshots/3.PNG)
   
-- **Check the score:**   
-  ![CheckScore](screenshots/check_score.PNG)
+- **Word Test**   
+  ![word2](screenshots/4.PNG)
+  ![word3](screenshots/5.PNG)
 
+- **Add Wordbook and Word**
+
+  
+  ![word5](screenshots/6.PNG)
+  ![word6](screenshots/7.PNG)
+
+  
 ## Credits
 
 - **Team:** Group#202
