@@ -2,17 +2,19 @@ Word Quiz
 ====================
 This is a team project for Software English
 -------------
-   ``` This is a word quiz program made of C.
+   ```bash
+   This is a word quiz program made of C.
    There's a wordbook in /wordbooks/. You can add it according to the form if you need it.
    It's very simple and intuitive
    ```
 # A short explanation
-   ```1. Choose a wordbook.
+   ```bash
+   1. Choose a wordbook.
    2. Practice words.
    3. Test the words.
 
-   Test environment: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-   Build Code : https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+   Test environment: ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+   Build Code : ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
    ```
    
 
