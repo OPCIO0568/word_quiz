@@ -12,6 +12,7 @@ This is a team project for Software English
    1. Choose a wordbook.
    2. Practice words.
    3. Test the words.
+   4. Add a wordbook and a word
    ```
    ```Test environment : ``` ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -53,7 +54,9 @@ This is a team project for Software English
    2. Show the words in a wordbook
    3. Test with a wordbook
    4. Exit
-   > (1 ~ 4) 
+   5. Add a wordbook
+   6. Add a word to a wordbook
+   > (1 ~ 6) 
    ```
 
 **List wordbooks:**
@@ -65,6 +68,8 @@ This is a team project for Software English
    2. Show the words in a wordbook
    3. Test with a wordbook
    4. Exit
+   5. Add a wordbook
+   6. Add a word to a wordbook
    > 1
    
    ---
@@ -87,6 +92,28 @@ This is a team project for Software English
    ? (Answer)
    ```
 
+**Word Book add**
+   ```
+   5. Add a wordbook
+   >5
+   Enter the name of the new wordbook: (name)
+   Wordbook (name) has been successfully created.
+   ```
+
+**Word add for WordBook**
+   ```
+   6. Add a word to a wordbook
+   >6
+
+   ----
+   voca1
+   voca2
+   ----
+   Enter the name of the wordbook to add a word: (wordbook name)
+   Enter the word: (word)
+   Enter the meaning: (meaning)
+   Word (word) has been successfully added to the wordbook (wordbook).
+   ```
 **Program exit:**
    ```
    *** Word Quiz ***
@@ -95,16 +122,10 @@ This is a team project for Software English
    2. Show the words in a wordbook
    3. Test with a wordbook
    4. Exit
+   5. Add a wordbook
+   6. Add a word to a wordbook
    > 4
    ```
-## Main Menu Features
-A number between 1 and 4 selects all menu selections.   
-For a workbook, you can choose the name of the wordbook.   
-   
-- `1. List all wordbooks`: Show all the wordbooks in `/wordbooks/`.   
-- `2. Show the words in a wordbook`: Pick a wordbook and look at the words and meanings.   
-- `3. Test with a wordbook`: Pick a wordbook and take a test. When all the questions are finished, the score is output.   
-- `4. Exit`: End the program.   
 
 ### Screenshots
 - **Main Menu:**   
